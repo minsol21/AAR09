@@ -2,11 +2,8 @@
 
 ## File structure
 |- Plots
-
  : this file includes plot results of the codes.
- 
 |- general_robot.py
-
 |- cautious_robot.py
 
 |- adventurous_robot.py
